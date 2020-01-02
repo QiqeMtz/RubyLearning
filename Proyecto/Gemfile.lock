@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.1.5)
+    faker (2.10.0)
+      i18n (>= 1.6, < 1.8)
+    i18n (1.7.0)
+      concurrent-ruby (~> 1.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  faker (~> 2.10)
+
+BUNDLED WITH
+   2.1.2
